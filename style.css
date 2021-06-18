@@ -62,6 +62,10 @@ ul.history_list li div.txt{
   flex: 1;
 }
 
+ul.history_list li div.txt{
+  flex: 1;
+}
+
 div.year{
   width: 5em;
 }
