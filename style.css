@@ -3,6 +3,7 @@ body{
   margin: 0;
   padding: 20px;
   background-color: #ddd;
+  background-color: rgb(233, 219, 159);
   line-height: 1.8;
 }
 
@@ -22,6 +23,7 @@ img{
   max-width: 600px;
   margin: 0 auto;
   background-color: #fff;
+  background-color: rgb(233, 219, 159);
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
